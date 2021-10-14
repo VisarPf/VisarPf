@@ -4,7 +4,7 @@ I’m interested in solving problems related to motion capture, using instrument
 
 I’m open to collaborate on SIMI and related motiona capture data analysis. 
 
-📫 Reach me at visar.berki@pfizer.com
+📫 Reach me at: visar.berki@pfizer.com
 
 <!---
 VisarPf/VisarPf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
